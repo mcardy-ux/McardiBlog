@@ -14,5 +14,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+
+//Inicio Contacto 
+Route::get('/contact', function () {
+    return view('tabs.contact');
+})->name('contact');
+
+//Inicio Contacto 
+Route::get('/trends', function () {
+    return view('tabs.trends');
+})->name('trends');
