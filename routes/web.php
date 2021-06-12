@@ -26,3 +26,23 @@ Route::get('/contact', function () {
 Route::get('/trends', function () {
     return view('tabs.trends');
 })->name('trends');
+
+Route::get('/programming', function () {
+    return view('categories.programming');
+})->name('programming');
+
+Route::get('/marketing', function () {
+    return view('categories.marketing');
+})->name('marketing');
+
+Route::get('/design', function () {
+    return view('categories.design');
+})->name('design');
+
+
+
+
+// articulos
+Route::get('/article1', function () {
+    return view('articles.article1');
+})->name('article1');

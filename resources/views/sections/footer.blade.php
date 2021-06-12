@@ -57,12 +57,8 @@
                     <div class="akea-copyright-left akea-item-pdlr">Copyright 2021, All Right Reserved <a href="https://www.mcardi.com"><strong> Mcardi Studios</strong></a></div>
                     <div class="akea-copyright-right akea-item-pdlr">
                         <a href=/ >Home</a>
-                        <a href=about-us.html >About</a>
-                        <a href=# >Updates</a>
-                        <a href=# >Advertising</a>
-                        <a href=contact.html >Contact</a>
                     </div>
                 </div>
             </div>
         </footer>
-        <a href="#akea-header-background" class="akea-footer-back-to-top-button  akea-with-recent-post-bar " id=akea-footer-back-to-top-button><i class="fa fa-angle-up" ></i></a>
+        <!-- <a href="#redes" class="akea-footer-back-to-top-button  akea-with-recent-post-bar " id=akea-footer-back-to-top-button><i class="fa fa-angle-up" ></i></a> -->
