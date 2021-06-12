@@ -105,20 +105,9 @@
                                     </h3>
                                     <span class=clear></span>
                                     <div class=tagcloud>
-                                        <a href=# class="tag-cloud-link tag-link-117 tag-link-position-1" id="a_2207_16" aria-label="Beach (2 items)">Beach</a>
-                                        <a href=# class="tag-cloud-link tag-link-130 tag-link-position-2" id="a_2207_17" aria-label="Dress (3 items)">Dress</a>
-                                        <a href=# class="tag-cloud-link tag-link-10 tag-link-position-3" id="a_2207_18" aria-label="Fashion (7 items)">Fashion</a>
-                                        <a href=# class="tag-cloud-link tag-link-126 tag-link-position-4" id="a_2207_19" aria-label="Food (5 items)">Food</a>
-                                        <a href=# class="tag-cloud-link tag-link-140 tag-link-position-5" id="a_2207_20" aria-label="Gadget (1 item)">Gadget</a>
-                                        <a href=# class="tag-cloud-link tag-link-138 tag-link-position-6" id="a_2207_21" aria-label="Holiday (1 item)">Holiday</a>
-                                        <a href=# class="tag-cloud-link tag-link-14 tag-link-position-7" id="a_2207_22" aria-label="Nature (2 items)">Nature</a>
-                                        <a href=# class="tag-cloud-link tag-link-142 tag-link-position-8" id="a_2207_23" aria-label="Ocean (1 item)">Ocean</a>
-                                        <a href=# class="tag-cloud-link tag-link-131 tag-link-position-9" id="a_2207_24" aria-label="Photography (4 items)">Photography</a>
-                                        <a href=# class="tag-cloud-link tag-link-17 tag-link-position-10" id="a_2207_25" aria-label="Post Format (7 items)">Post Format</a>
-                                        <a href=# class="tag-cloud-link tag-link-139 tag-link-position-11" id="a_2207_26" aria-label="Style (1 item)">Style</a>
-                                        <a href=# class="tag-cloud-link tag-link-128 tag-link-position-12" id="a_2207_27" aria-label="Tech (10 items)">Tech</a>
-                                        <a href=# class="tag-cloud-link tag-link-20 tag-link-position-13" id="a_2207_28" aria-label="Tips (2 items)">Tips</a>
-                                        <a href=# class="tag-cloud-link tag-link-115 tag-link-position-14" id="a_2207_29" aria-label="Travel (10 items)">Travel</a>
+                                        <a href=# class="tag-cloud-link tag-link-117 tag-link-position-1" id="a_2207_16" aria-label="Programación (2 items)">Programación</a>
+                                        <a href=# class="tag-cloud-link tag-link-130 tag-link-position-2" id="a_2207_17" aria-label="Marketing (3 items)">Marketing</a>
+                                        <a href=# class="tag-cloud-link tag-link-10 tag-link-position-3" id="a_2207_18" aria-label="Diseño y Marca Personal (7 items)">Diseño y Marca Personal</a>
                                     </div>
                                 </div>
                                 <div id=text-6 class="widget widget_text akea-widget">
