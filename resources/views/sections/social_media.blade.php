@@ -1,4 +1,4 @@
-<div class="akea-footer-recent-post-button " id=akea-footer-recent-post-button><i class=icon_plus></i></div>
+<!-- <div class="akea-footer-recent-post-button " id=akea-footer-recent-post-button><i class=icon_plus></i></div>
 <div class="akea-footer-recent-post-bar " id=akea-footer-recent-post-bar>
     <div class=akea-footer-recent-post-bar-close><i class=icon_minus-06></i></div>
     <div class="akea-footer-recent-post-bar-container akea-container clearfix">
@@ -46,4 +46,4 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->

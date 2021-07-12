@@ -146,7 +146,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div id=gdlr-core-instagram-widget-2 class="widget widget_gdlr-core-instagram-widget akea-widget">
+                                <!-- <div id=gdlr-core-instagram-widget-2 class="widget widget_gdlr-core-instagram-widget akea-widget">
                                     <h3 class="akea-widget-title"><span class=akea-widget-head-text>Instagram</span><span class=akea-widget-head-divider></span></h3><span class=clear></span>
                                     <div class="gdlr-core-instagram-widget clearfix">
                                         <div class=" gdlr-core-column-20 gdlr-core-column-first gdlr-core-media-image">
@@ -168,6 +168,6 @@
                                             <a class="gdlr-core-lightgallery gdlr-core-js " href="upload/44898222_267175490542576_6183516087002698981_n7d5a.jpg" data-sub-html="So blue" data-lightbox-group=gdlr-core-img-group-1><img src="upload/44898222_267175490542576_6183516087002698981_n7d5a.jpg" width=150 height=150 alt="So blue"></a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
