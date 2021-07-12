@@ -46,3 +46,11 @@ Route::get('/design', function () {
 Route::get('/article1', function () {
     return view('articles.article1');
 })->name('article1');
+// articulos
+Route::get('/article2', function () {
+    return view('articles.article2');
+})->name('article2');
+// articulos
+Route::get('/article3', function () {
+    return view('articles.article3');
+})->name('article3');

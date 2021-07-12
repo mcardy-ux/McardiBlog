@@ -27,10 +27,10 @@
                                                             <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                                 <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author">
                                                                     <img alt src="{{asset('img/avatar/juan.png')}}"  class='avatar avatar-50 photo' height=50 width=50>
-                                                                        <a href=# title="Posts by Jane Smith" rel=author>Juan Cardenas</a>
+                                                                        <a href="{{ route('article1') }}" title="Posts by Jane Smith" rel=author>Juan Cardenas</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                        <a href=#>Noviembre 1, 2020</a>
+                                                                        <a href="{{ route('article1') }}">Noviembre 1, 2020</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
                                                                         <a href="{{ route('programming') }}"  rel=tag>Programación</a>
@@ -65,15 +65,15 @@
                                                     <div class="gdlr-core-blog-full-head clearfix">
                                                         <div class=gdlr-core-blog-full-head-right>
                                                             <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_2207_3">
-                                                                <a href=# >¿Que beneficios existen en utilizar marketing digital?</a>
+                                                                <a href="{{ route('article2') }}" >¿Que beneficios existen en utilizar marketing digital?</a>
                                                             </h3>
                                                             <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                                 <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author">
                                                                     <img alt src="{{asset('img/avatar/juan.png')}}"  class='avatar avatar-50 photo' height=50 width=50>
-                                                                        <a href=# title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
+                                                                        <a href="{{ route('article2') }}" title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                        <a href=#>Abril 1, 2020</a>
+                                                                        <a href="{{ route('article2') }}">Abril 1, 2020</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
                                                                     <a href="{{ route('marketing') }}" rel=tag>Marketing</a>
@@ -82,11 +82,13 @@
                                                             </div>
                                                         </div>
                                                         <div class=gdlr-core-blog-content>I neglect my talents Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia....</div>
-                                                         <strong>Ver Articulo 🔎
-                                                            <span class=gdlr-core-social-share-wrap>
+                                                        <a href="{{ route('article2') }}">
+                                                            <strong>Ver Articulo 🔎
+                                                                <span class=gdlr-core-social-share-wrap>
 
-                                                            </span>
-                                                        </strong>
+                                                                </span>
+                                                            </strong>
+                                                        </a>
                                                 </div>
                                             </div>
 
@@ -102,15 +104,15 @@
                                                     <div class="gdlr-core-blog-full-head clearfix">
                                                         <div class=gdlr-core-blog-full-head-right>
                                                             <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_2207_3">
-                                                                <a href=# >Como hacer que tu propio logo genere beneficios.</a>
+                                                                <a href="{{ route('article3') }}" >¿Que beneficios puede aportar tu propio logo?</a>
                                                             </h3>
                                                             <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                                 <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author">
                                                                     <img alt src="{{asset('img/avatar/juan.png')}}"  class='avatar avatar-50 photo' height=50 width=50>
-                                                                        <a href=# title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
+                                                                        <a href="{{ route('article3') }}" title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                        <a href=#>Mayo 1, 2021</a>
+                                                                        <a href="{{ route('article3') }}">Mayo 1, 2021</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
                                                                      <a href="{{ route('design') }}">Diseño y Marca Personal</a>
@@ -118,12 +120,15 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class=gdlr-core-blog-content>I neglect my talents Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia....</div>
-                                                         <strong>Ver Articulo 🔎
+                                                        <div class=gdlr-core-blog-content>Uno de los objetivos al plasmar tu marca o idea en una imagen es que sea fácil de reconocer, recordar y evocar un buen pensamiento en la persona que lo ve. Y desde luego es muy importante apelar a las conexiones que tenemos como seres humanos como a nivel de gusto, identificación y representación. Pero ademas de tener estos objetivos en mente, puedes ponerte como meta estos objetivos para que tu propio logo genere beneficios...</div>
+                                                        
+                                                        <a href="{{ route('article3') }}">
+                                                            <strong>Ver Articulo 🔎
                                                             <span class=gdlr-core-social-share-wrap>
                                                                 
                                                             </span>
                                                         </strong>
+                                                        </a>
                                                 </div>
                                             </div>
                                         </div>

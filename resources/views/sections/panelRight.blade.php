@@ -98,7 +98,7 @@
                                     </ul>
                                 </div>
                                 
-                                <div id=tag_cloud-2 class="widget widget_tag_cloud akea-widget">
+                                <!-- <div id=tag_cloud-2 class="widget widget_tag_cloud akea-widget">
                                     <h3 class="akea-widget-title">
                                         <span class=akea-widget-head-text>Tags</span>
                                         <span class=akea-widget-head-divider></span>
@@ -109,15 +109,15 @@
                                         <a href=# class="tag-cloud-link tag-link-130 tag-link-position-2" id="a_2207_17" aria-label="Marketing (3 items)">Marketing</a>
                                         <a href=# class="tag-cloud-link tag-link-10 tag-link-position-3" id="a_2207_18" aria-label="Diseño y Marca Personal (7 items)">Diseño y Marca Personal</a>
                                     </div>
-                                </div>
-                                <div id=text-6 class="widget widget_text akea-widget">
+                                </div> -->
+                                <!-- <div id=text-6 class="widget widget_text akea-widget">
                                     <div class=textwidget>
                                         <p>
                                             <a href=#><img class="alignnone size-full wp-image-6651" src=upload/banner-250.jpg alt width=300 height=250></a>
                                         </p>
                                     </div>
-                                </div>
-                                <div id=gdlr-core-recent-post-widget-3 class="widget widget_gdlr-core-recent-post-widget akea-widget">
+                                </div> -->
+                                <!-- <div id=gdlr-core-recent-post-widget-3 class="widget widget_gdlr-core-recent-post-widget akea-widget">
                                     <h3 class="akea-widget-title"><span class=akea-widget-head-text>Noticias Recientes</span><span class=akea-widget-head-divider></span></h3><span class=clear></span>
                                     <div class="gdlr-core-recent-post-widget-wrap gdlr-core-style-full">
                                         <div class="gdlr-core-recent-post-widget clearfix">
@@ -145,7 +145,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <!-- <div id=gdlr-core-instagram-widget-2 class="widget widget_gdlr-core-instagram-widget akea-widget">
                                     <h3 class="akea-widget-title"><span class=akea-widget-head-text>Instagram</span><span class=akea-widget-head-divider></span></h3><span class=clear></span>
                                     <div class="gdlr-core-instagram-widget clearfix">
