@@ -46,11 +46,13 @@
                                                         <div class=gdlr-core-blog-content>Uno de los objetivos al plasmar tu marca o idea en una imagen es que sea fácil de reconocer, recordar y evocar un buen pensamiento en la persona que lo ve.  
                                                         Y desde luego es muy importante apelar a las conexiones que tenemos como seres humanos como a nivel de gusto, identificación y representación.
                                                         Pero ademas de tener estos objetivos en mente, puedes ponerte como meta estos objetivos para que tu propio logo genere beneficios...</div>
-                                                         <strong>Ver Articulo 🔎
+                                                         <a href="{{ route('article3') }}">
+                                                            <strong>Ver Articulo 🔎
                                                             <span class=gdlr-core-social-share-wrap>
                                                                 
                                                             </span>
                                                         </strong>
+                                                        </a>
                                                 </div>
                                             </div>
                                           

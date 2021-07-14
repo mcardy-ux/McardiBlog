@@ -17,9 +17,9 @@
                             <h3 class="akea-widget-title"><span class=akea-widget-head-text>Categorias</span><span class=akea-widget-head-divider></span></h3><span class=clear></span>
                             <div class=menu-category-container>
                                 <ul id=menu-category class="gdlr-core-custom-menu-widget gdlr-core-menu-style-half">
-                                    <li class="menu-item"><a href=#>Programación</a></li>
-                                    <li class="menu-item"><a href=#>Marketing</a></li>
-                                    <li class="menu-item"><a href=#>Marca y Diseño</a></li>
+                                    <li class="menu-item"><a href="{{route('programming')}}">Programación</a></li>
+                                    <li class="menu-item"><a href="{{route('marketing')}}">Marketing</a></li>
+                                    <li class="menu-item"><a href="{{route('design')}}">Marca y Diseño</a></li>
                                 </ul>
                             </div>
                         </div>
