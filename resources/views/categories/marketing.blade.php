@@ -35,7 +35,7 @@
                                                                         <a href=# title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                        <a href=#>Abril 1, 2020</a>
+                                                                        <a href=#>Julio 1, 2021</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
                                                                         <a href=# rel=tag>Programación</a>

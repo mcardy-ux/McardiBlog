@@ -35,7 +35,7 @@
                                                                         <a href="{{ route('article3') }}" title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                        <a href="{{ route('article3') }}">Mayo 1, 2021</a>
+                                                                        <a href="{{ route('article3') }}">Julio 1, 2021</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
                                                                     <a href="{{ route('design') }}">Diseño y Marca Personal</a>

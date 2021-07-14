@@ -18,7 +18,7 @@
                                                     <h1 class="akea-single-article-title">¿Que beneficios puede aportar tu propio logo?</h1>
                                                     <div class="akea-blog-info-wrapper">
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-author vcard author post-author "><img alt="" src="{{asset('img/avatar/juan.png')}}" class="avatar avatar-50 photo" width="50" height="50"><span class="fn"><a href="#" title="Posts by Janet Jones" rel="author">Juan David Cardenas</a></span></div>
-                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-category "><a href="#" rel="tag">Noviembre 1, 2020</a></div>
+                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-category "><a href="#" rel="tag">Julio 1, 2020</a></div>
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-tag "><a href="{{ route('design') }}" rel="tag">Diseño y Marca Personal</a></div>
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-comment-number "><span class="akea-head">Tiempo de Lectura:</span>10 min</div>
                                                     </div>
