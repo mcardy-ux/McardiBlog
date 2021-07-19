@@ -1,5 +1,5 @@
 @extends('sections.model')
-@section('title', 'Programación')
+@section('title', 'Diseño y Marca Personal')
 @section('content')
 <!-- Inicio de contenido de articulo Programación -->
 
