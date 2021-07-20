@@ -38,7 +38,8 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class=gdlr-core-blog-content>I neglect my talents Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia....</div>
+                                                        <div class=gdlr-core-blog-content>El diseño de un sitio web se ha convertido mas que transmitir sentimientos, proveer accesibilidad o identificar tu sector. Ahora es igual de importante incrementar el nivel de confianza, prestigio y confianza hacia tu producto o servicio, Por ello invertir en el diseño de tu pagina web es un aspecto importante.
+                                                            A continuación encontraras variadas razones para tener en cuenta al mejorar tu pagina web.</div>
                                                          
                                                         <a href="{{ route('article1') }}">
                                                             <strong>Ver Articulo 🔎
@@ -81,7 +82,7 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class=gdlr-core-blog-content>I neglect my talents Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia....</div>
+                                                        <div class=gdlr-core-blog-content>Lograr vender productos o servicios a posibles clientes en los medios digitales se ha convertido en una faceta primordial, A continuación encontraras los principales beneficios de tener en cuenta el marketing digital:</div>
                                                         <a href="{{ route('article2') }}">
                                                             <strong>Ver Articulo 🔎
                                                                 <span class=gdlr-core-social-share-wrap>

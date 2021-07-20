@@ -19,8 +19,8 @@
                                                     <div class="akea-blog-info-wrapper">
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-author vcard author post-author "><img alt="" src="{{asset('img/avatar/juan.png')}}" class="avatar avatar-50 photo" width="50" height="50"><span class="fn"><a href="#" title="Posts by Janet Jones" rel="author">Juan David Cardenas</a></span></div>
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-category "><a href="#" rel="tag">Abril 1, 2020</a></div>
-                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-tag "><a href="{{ route('marketing') }}" rel="tag">Programación</a></div>
-                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-comment-number "><span class="akea-head">Tiempo de Lectura:</span>15 min.</div>
+                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-tag "><a href="{{ route('marketing') }}" rel="tag">Marketing</a></div>
+                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-comment-number "><span class="akea-head">Tiempo de Lectura:</span>8 min.</div>
                                                     </div>
                                                 </div>
                                             </header>
