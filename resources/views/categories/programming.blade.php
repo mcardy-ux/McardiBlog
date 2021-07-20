@@ -24,35 +24,37 @@
                                             <div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
                                                 <div class="gdlr-core-blog-thumbnail-wrap clearfix">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                        <a href=#><img src="{{asset('img/banners/web.png')}}" alt width=1000 height=426 title=pexels-photo-871053></a>
-                                                    </div><a href=# class=zilla-likes id=zilla-likes-6613 title="Like this"><span class=zilla-likes-count>261</span> <span class=zilla-likes-postfix></span></a></div>
+                                                        <a href="{{ route('article1') }}"><img src="{{asset('img/banners/web.png')}}" alt width=1000 height=426 title=pexels-photo-871053></a>
+                                                    </div><a href="{{ route('article1') }}" class=zilla-likes id=zilla-likes-6613 title="Like this"><span class=zilla-likes-count>261</span> <span class=zilla-likes-postfix></span></a></div>
                                                 <div class=gdlr-core-blog-full-content-wrap>
                                                                                                         
                                                     <div class="gdlr-core-blog-full-head clearfix">
                                                         <div class=gdlr-core-blog-full-head-right>
                                                             <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_2207_3">
-                                                                <a href=# >Top 10 - Como mejorar tu empresa con un buen diseño web.</a>
+                                                                <a href="{{ route('article1') }}" >¿Como mejorar tu empresa con un buen diseño web?</a>
                                                             </h3>
                                                             <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                                 <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author">
                                                                     <img alt src="{{asset('img/avatar/juan.png')}}"  class='avatar avatar-50 photo' height=50 width=50>
-                                                                        <a href=# title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
+                                                                        <a href="{{ route('article1') }}" title="Posts by Juan David Cardenas" rel=author>Juan Cardenas</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                        <a href=#>Julio 1, 2021</a>
+                                                                        <a href="{{ route('article1') }}">Julio 1, 2021</a>
                                                                     </span>
                                                                     <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-category">
-                                                                        <a href=# rel=tag>Programación</a>
+                                                                        <a href="{{ route('article1') }}" rel=tag>Programación</a>
                                                                     </span>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class=gdlr-core-blog-content>I neglect my talents Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia....</div>
-                                                         <strong>Ver Articulo 🔎
+                                                        <a href="{{ route('article1') }}">
+                                                            <strong>Ver Articulo 🔎
                                                             <span class=gdlr-core-social-share-wrap>
                                                                 
                                                             </span>
                                                         </strong>
+                                                        </a>
                                                 </div>
                                             </div>
                                           

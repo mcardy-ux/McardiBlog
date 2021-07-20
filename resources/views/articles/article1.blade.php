@@ -15,179 +15,88 @@
                                         <div class="akea-single-article-title-wrap akea-align-center">
                                             <header class="akea-single-article-head clearfix">
                                                 <div class="akea-single-article-head-right">
-                                                    <h1 class="akea-single-article-title">Top 10 - Como mejorar tu empresa con un buen diseño web.</h1>
+                                                    <h1 class="akea-single-article-title">¿Como mejorar tu empresa con un buen diseño web?</h1>
                                                     <div class="akea-blog-info-wrapper">
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-author vcard author post-author "><img alt="" src="{{asset('img/avatar/juan.png')}}" class="avatar avatar-50 photo" width="50" height="50"><span class="fn"><a href="#" title="Posts by Janet Jones" rel="author">Juan David Cardenas</a></span></div>
-                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-category "><a href="#" rel="tag">Noviembre 1, 2020</a></div>
+                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-category "><a href="#" rel="tag">Julio 1, 2021</a></div>
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-tag "><a href="{{ route('programming') }}" rel="tag">Programación</a></div>
-                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-comment-number "><span class="akea-head">Tiempo de Lectura:</span>15 min.</div>
+                                                        <div class="akea-blog-info akea-blog-info-font akea-blog-info-comment-number "><span class="akea-head">Tiempo de Lectura:</span>8 min.</div>
                                                     </div>
                                                 </div>
                                             </header>
                                         </div>
-                                        <div class="akea-single-article-thumbnail akea-media-image"><img src="upload/chinh-le-duc-264152-unsplash-1300x530.jpg" alt="" title="chinh-le-duc-264152-unsplash" width="1300" height="530"><a href="#" class="zilla-likes" id="zilla-likes-7008" title="Like this"><span class="zilla-likes-count">11</span> <span class="zilla-likes-postfix"></span></a></div>
+                                        <div class="akea-single-article-thumbnail akea-media-image">
+                                            <img src="upload/chinh-le-duc-264152-unsplash-1300x530.jpg" alt="" title="chinh-le-duc-264152-unsplash" width="1300" height="530">
+                                            <a href="#" class="zilla-likes" id="zilla-likes-7008" title="Like this">
+                                                <span class="zilla-likes-count">11</span> <span class="zilla-likes-postfix"></span></a></div>
                                         <div class="akea-single-article-content">
                                             
-                                            <h4>I neglect my talents</h4>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&nbsp;<strong>A small river named Duden flows by</strong>&nbsp;their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line.</p>
-                                            <p><strong>Read This :&nbsp;&nbsp;</strong>&nbsp;<a href="../../../11/11/gutenberg-post-ex-1/index.html#">Traveling in Turkey</a></p>
-                                           
-                                            <ol>
-                                                <li><strong>Impenetrable foliage</strong>&nbsp;of my trees, and but a few stray gleams.</li>
-                                                <li><strong>A wonderful serenity</strong>&nbsp;has taken possession of my entire soul.</li>
-                                                <li><strong>I should be incapable of drawing</strong>&nbsp;a single stroke at the present moment.</li>
-                                            </ol>
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.
-                                                <br>
-                                            </p>
-                                            <p>I feel the presence of the Almighty:&nbsp;</p>
+                                            
+                                            <p>El diseño de un sitio web se ha convertido mas que transmitir sentimientos, proveer accesibilidad o  identificar tu sector. Ahora es igual de importante incrementar el nivel de confianza, prestigio y confianza hacia tu producto o servicio, Por ello invertir en el diseño de tu pagina web es un aspecto importante.<br> A continuación encontraras variadas razones para tener en cuenta al mejorar tu pagina web.</p>
+                                            
+                                            <h3>&nbsp;🎭 Un buen diseño web le da más personalidad a tu negocio</h3>
+                                            
+                                            <p>Cuando hablamos de hacer un diseño, hablamos de crear marca. De ahí la importancia 
+                                                de tener una apariencia exclusiva en este competitivo y saturado escaparate que es la red. 
+                                                Cuando elijas a tu diseñador, elabora un buen briefing que le permita captar los rasgos más 
+                                                significativos de tu negocio tales como tu target, filosofía o características de tu producto.
+                                                 Nadie mejor que un profesional del diseño sabrá orientarte en términos estéticos-artísticos para que tu 
+                                                 imagen sea la más exclusiva, competitiva y adecuada. Las páginas web pueden dar ese plus de personalidad 
+                                                 que necesita tu marca para ser percibida de manera diferencial respecto a tus competidores, por lo que deberías 
+                                                 evitar el uso de plantillas ya creadas o limitarte a las redes sociales que, como hemos dicho, son un buen 
+                                                 complemento para difundir tu marca, pero nunca podrán ofrecer la exclusividad que te da un buen diseño web.</p>
                                             <div class="wp-block-image">
-                                                <figure class="aligncenter"><img src="upload/brooke-lark-289769-unsplash.jpg" alt="" class="wp-image-6464"></figure>
-                                            </div>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&nbsp;<strong>A small river named Duden flows by</strong>&nbsp;their place and supplies it with the necessary regelialia. It is a paradisematic country in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line.</p>
-                                            <p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment and yet.</p>
-                                            <blockquote class="wp-block-quote">
-                                                <p><strong>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks.﻿</strong></p>
-                                            </blockquote>
-                                            <ul>
-                                                <li><strong>Impenetrable foliage</strong>&nbsp;of my trees, and but a few stray gleams.</li>
-                                                <li><strong>A wonderful serenity</strong>&nbsp;has taken possession of my entire soul.</li>
-                                                <li><strong>I should be incapable</strong>&nbsp;of drawing a single stroke at the present moment.&nbsp;</li>
-                                            </ul>
-                                            <figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-                                                <div class="wp-block-embed__wrapper">
-                                                    <div class="gdlr-core-fluid-video-wrapper" style="padding-top: 56.2609%;"><iframe src="https://www.youtube.com/embed/MGhjvist4gk?feature=oembed" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="gdlr-video-116349" frameborder="0"></iframe></div>
-                                                </div>
-                                            </figure>
-                                            <p><strong>Read This :&nbsp;&nbsp;</strong><a href="../../../11/11/gutenberg-post-ex-1/index.html#">Traveling in Turkey</a></p>
-                                            <ul>
-                                                <li><strong>Impenetrable foliage</strong>&nbsp;of my trees, and but a few stray gleams.</li>
-                                                <li><strong>A wonderful serenity</strong>&nbsp;has taken possession of my entire soul.</li>
-                                                <li><strong>I should be incapable</strong>&nbsp;of drawing a single stroke at the present moment.</li>
-                                            </ul><span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
-                                            <h4>&nbsp;The bedding was hardly able to cover it</h4>
-                                            <div class="wp-block-image">
-                                                <figure class="alignleft is-resized"><img src="upload/eberhard-grossgasteiger-1093164-unsplash.jpg" alt="" class="wp-image-6563" width="310" height="464">
+                                                <figure class="alignleft is-resized">
+                                                    <img src="upload/eberhard-grossgasteiger-1093164-unsplash.jpg" alt="" class="wp-image-6563" width="310" height="464">
                                                     <figcaption><em>Green Forest</em></figcaption>
                                                 </figure>
                                             </div>
-                                            <p>The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</p>
-                                            <p><strong>“What’s happened to me?” he thought. It wasn’t a dream. His room, a proper human”</strong>&nbsp;although a little too small, lay peacefully between its four</p>
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.&nbsp;He lay on his armour-like back, and if he lifted&nbsp;his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.</p><span class="gdlr-core-space-shortcode" style="margin-top: 50px ;"></span>
-                                            <h4>A wonderful serenity has taken possession</h4>
-                                            <p><strong>His many legs, pitifully thin compared with the size of the rest of him,</strong>&nbsp;waved about helplessly as he looked. “What’s happened to me?” he thought. It wasn’t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung.</p>
+                                            <br>
+                                            <h3>🚀 Un buen diseño web es sinónimo de prestigio</h3>
+                                            <p>En Internet no importa el tamaño de tu empresa. Todo el mundo puede competir al mismo nivel: con un buen diseño web, 
+                                                el usuario puede incluso llegar a percibir que tu negocio es más grande y exitoso de lo que realmente es. 
+                                                De acuerdo con el punto anterior, disponer de una página web exclusiva con una buena imagen de marca se puede traducir 
+                                                en un mayor posicionamiento, que a su vez se va a traducir en un mayor prestigio que le dará más credibilidad a tu negocio. 
+                                                No dejes pasar esta oportunidad.</p>
+                                                <br>
+                                            <h3>🔝 Un buen diseño web genera más competitividad</h3>
+                                            <p>Parece que no hemos dejado de hablar de la competitividad en ningún momento. Así es. Una cosa lleva a la otra, hasta llegar
+                                                 a esta gratificante obviedad: si estás en Internet, eres competitivo. Aunque recuperando a Bill Gates, podríamos darle la
+                                                  vuelta: si no estás en Internet, no estás en el mercado (es una cuestión de supervivencia). En un momento en que toda o 
+                                                  la mayor parte de tu competencia se ha preocupado por tener su propia página web, estás prácticamente obligado a entrar 
+                                                  en el juego si quieres tener una mínima – o maxima, según cómo juegues tus cartas – probabilidad de éxito. Y no solo eso: 
+                                                  el consumidor también espera encontrarte. Los buscadores han suplantado a las Páginas Amarillas y deberás tener preparada 
+                                                  una buena carta de presentación cuando te encuentren.</p>
+                                            <div class="wp-block-image">
+                                                <figure class="alignleft is-resized">
+                                                    <img src="upload/eberhard-grossgasteiger-1093164-unsplash.jpg" alt="" class="wp-image-6563" width="310" height="464">
+                                                    <figcaption><em>Green Forest</em></figcaption>
+                                                </figure>
+                                            </div>
+                                            <br>
+                                            <h3>📈  Un buen diseño web ayuda a incrementar y agilizar las ventas</h3>
+                                            <p>La irrupción del e-commerce como mecanismo de venta es el fruto de la digitalización de un consumidor que cada vez tiene más 
+                                                medios a su alcance para realizar compras cómodas y seguras con todas las garantías. Actualmente ya no solo se reservan y 
+                                                efectúan pedidos online de restaurantes, hoteles, vuelos o viajes. Las tiendas físicas han dejado de tener la exclusividad 
+                                                de la venta de artículos como zapatos, ropa o complementos, además de todos los supermercados que permiten hacer la compra 
+                                                de la semana por Internet. Esta tendencia creciente nos hace pensar que el comercio online van a ser cada vez más imprescindible 
+                                                como complemento a la venta física para poder competir en cualquier mercado. Aunque no quieras basar tu negocio en las compras 
+                                                por Internet, ofrecer a tus consumidores esa posibilidad hará que se sientan más cómodos con tu marca, además de ampliar y agilidad 
+                                                tu espectro de ventas.</p>
+                                                <br>
+                                            <h3>🛒 Un buen diseño web aporta más rentabilidad a tu negocio</h3>
+                                            <p>Comparado con otros medios a través de los cuales te puedes publicitar, una página web ofrece la mejor relación coste-beneficio 
+                                                que puedas encontrar. Es fundamental que inviertas en un buen diseño, porque dependiendo de la magnitud del proyecto es probable 
+                                                que no tengas muchos más gastos que ese en un buen tiempo (a pesar de las necesarias actualizaciones de contenido, el diseño web 
+                                                puede ser bastante atemporal). Si tenemos en cuenta la gran cantidad de usuarios y herramientas de acceso, la seguridad, 
+                                                la velocidad y los bajos precios de la conexión a la red, Internet es una herramienta publicitaria muy rentable.</p>
+
+                                            
+                                            
+                                            
                                         </div>
                                     </div>
                                 </article>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="gdlr-core-page-builder-body"></div>
-            <div class="akea-bottom-page-builder-container akea-container">
-                <div class="akea-bottom-page-builder-sidebar-wrap akea-sidebar-style-none">
-                    <div class="akea-bottom-page-builder-sidebar-class">
-                        <div class="akea-bottom-page-builder-content akea-item-pdlr">
-                            <div class="akea-single-nav-area clearfix"><span class="akea-single-nav akea-single-nav-left"><span class="akea-text akea-title-font">Previous Post</span><a href="../../05/how-to-dress-in-red-style/index.html" rel="prev"><span class="akea-single-nav-title akea-title-font">How To Dress In Red Style</span></a></span><span class="akea-single-nav akea-single-nav-right"><span class="akea-text akea-title-font">Next Post</span><a href="../../14/taking-photo-in-the-middle-of-nature/index.html" rel="next"><span class="akea-single-nav-title akea-title-font">Taking Photo In The Middle Of Nature</span></a></span>
-                            </div>
-                            
-                            <div class="akea-single-social-share akea-item-rvpdlr clearfix">
-                                <div class="gdlr-core-social-share-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-social-share-right-text gdlr-core-item-mglr gdlr-core-style-plain" style="padding-bottom: 0px ;">
-                                    <span class="gdlr-core-social-share-wrap">
-                                        <a class="gdlr-core-social-share-facebook" href="#" target="_blank">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-google-plus" href="#" target="_blank">
-                                            <i class="fa fa-google-plus"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-pinterest" href="#" target="_blank">
-                                            <i class="fa fa-pinterest-p"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-stumbleupon" href="#" target="_blank">
-                                            <i class="fa fa-stumbleupon"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-twitter" href="#" target="_blank">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
-                                    </span>
-                                    <span class="gdlr-core-social-share-count">
-                                        <span class="gdlr-core-divider gdlr-core-skin-divider"></span>
-                                        <span class="gdlr-core-count">0</span>
-                                        <span class="gdlr-core-suffix">Shares</span>
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="akea-single-magazine-author-tags clearfix"><a href="#" rel="tag">Food</a></div>
-                            <div class="akea-single-related-post-wrap akea-item-rvpdlr">
-                                <h3 class="akea-single-related-post-title akea-item-mglr">Related Posts</h3>
-                                <div class="gdlr-core-blog-item-holder clearfix">
-                                    <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-30 gdlr-core-column-first">
-                                        <div class="gdlr-core-blog-grid ">
-                                            <div class="gdlr-core-blog-thumbnail-wrap clearfix">
-                                                <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                    <a href="#"><img src="upload/brenda-godinez-228181-unsplash-900x537.jpg" alt="" title="brenda-godinez-228181-unsplash" width="900" height="537"></a>
-                                                    <div class="gdlr-core-blog-thumbnail-category"><a href="#" rel="tag">Food</a>,<a href="#" rel="tag">Photography</a></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-blog-grid-content-wrap">
-                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 17px ;"><a href="#">10 Best Way to Styling Your Food</a></h3>
-                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><img alt="" src="upload/avatar.jpeg" width="50" height="50"><a href="../../../../author/author1/index.html" title="Posts by Jane Smith" rel="author">Jane Smith</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="../../../10/11/index.html">October 11, 2018</a></span></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-30">
-                                        <div class="gdlr-core-blog-grid ">
-                                            <div class="gdlr-core-blog-thumbnail-wrap clearfix">
-                                                <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                    <a href="../../../09/05/the-most-beautiful-green-field-on-earth/index.html"><img src="upload/qingbao-meng-330658-unsplash-900x537.jpg" alt="" title="qingbao-meng-330658-unsplash" width="900" height="537"></a>
-                                                    <div class="gdlr-core-blog-thumbnail-category"><a href="#" rel="tag">Food</a>,<a href="#" rel="tag">Photography</a></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-blog-grid-content-wrap">
-                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 17px ;"><a href="../../../09/05/the-most-beautiful-green-field-on-earth/index.html">The Most Beautiful Green Field on Earth</a></h3>
-                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><img alt="" src="upload/avatar.jpeg" class="avatar avatar-50 photo" width="50" height="50"><a href="../../../../author/author2/index.html" title="Posts by Paul Newman" rel="author">Paul Newman</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="../../../09/05/index.html">September 5, 2018</a></span></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="comments" class="akea-comments-area">
-                                <div id="respond" class="comment-respond">
-                                    <h4 id="reply-title" class="comment-reply-title akea-content-font">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel Reply</a></small></h4>
-                                    <form action="#" method="post" id="commentform" class="comment-form" novalidate="">
-                                        <div class="comment-form-comment">
-                                            <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Comment*"></textarea>
-                                        </div>
-                                        <div class="akea-comment-form-author">
-                                            <input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required="true" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;">
-                                        </div>
-                                        <div class="akea-comment-form-email">
-                                            <input id="email" name="email" type="text" value="" placeholder="Email*" size="30" aria-required="true">
-                                        </div>
-                                        <div class="akea-comment-form-url">
-                                            <input id="url" name="url" type="text" value="" placeholder="Website" size="30">
-                                        </div>
-                                        <div class="clear"></div>
-                                        <p class="comment-form-cookies-consent">
-                                            <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
-                                            <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
-                                        </p>
-                                        <p class="form-submit">
-                                            <input name="submit" type="submit" id="submit" class="submit" value="Post Comment">
-                                        </p>
-                                        <p class="antispam-group antispam-group-q" style="clear: both;">
-                                            <label>Current ye@r <span class="required">*</span></label>
-                                            <input type="hidden" name="antspm-a" class="antispam-control antispam-control-a" value="2019">
-                                            <input type="text" name="antspm-q" class="antispam-control antispam-control-q" value="5.4" autocomplete="off">
-                                        </p>
-                                        <p class="antispam-group antispam-group-e" style="display: none;">
-                                            <label>Leave this field empty</label>
-                                            <input type="text" name="antspm-e-email-url-website" class="antispam-control antispam-control-e" value="" autocomplete="off">
-                                        </p>
-                                    </form>
-                                </div>
                             </div>
                         </div>
                     </div>
