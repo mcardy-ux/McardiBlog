@@ -22,7 +22,7 @@
                                                     <div class="gdlr-core-blog-full-head clearfix">
                                                         <div class=gdlr-core-blog-full-head-right>
                                                             <h3 class="gdlr-core-blog-title gdlr-core-skin-title" id="h3_2207_3">
-                                                                <a href="{{ route('article1') }}" >¿Como mejorar tu empresa con un buen diseño web?</a>
+                                                                <a href="{{ route('article1') }}" >¿Como puede mejorar tu empresa con un buen diseño web?</a>
                                                             </h3>
                                                             <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                                 <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author">

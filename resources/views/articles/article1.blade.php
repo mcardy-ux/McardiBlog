@@ -15,7 +15,7 @@
                                         <div class="akea-single-article-title-wrap akea-align-center">
                                             <header class="akea-single-article-head clearfix">
                                                 <div class="akea-single-article-head-right">
-                                                    <h1 class="akea-single-article-title">¿Como mejorar tu empresa con un buen diseño web?</h1>
+                                                    <h1 class="akea-single-article-title">¿Como puede mejorar tu empresa con un buen diseño web?</h1>
                                                     <div class="akea-blog-info-wrapper">
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-author vcard author post-author "><img alt="" src="{{asset('img/avatar/juan.png')}}" class="avatar avatar-50 photo" width="50" height="50"><span class="fn"><a href="#" title="Posts by Janet Jones" rel="author">Juan David Cardenas</a></span></div>
                                                         <div class="akea-blog-info akea-blog-info-font akea-blog-info-category "><a href="#" rel="tag">Julio 1, 2021</a></div>
