@@ -26,7 +26,7 @@
                                             </header>
                                         </div>
                                         <div class="akea-single-article-thumbnail akea-media-image">
-                                            <img src="upload/chinh-le-duc-264152-unsplash-1300x530.jpg" alt="" title="chinh-le-duc-264152-unsplash" width="1300" height="530">
+                                            <img src="{{asset('img/banners/creative.jpg')}}" alt="" title="chinh-le-duc-264152-unsplash" width="1300" height="530">
                                             <a href="#" class="zilla-likes" id="zilla-likes-7008" title="Like this">
                                                 <span class="zilla-likes-count">11</span> <span class="zilla-likes-postfix"></span></a></div>
                                         <div class="akea-single-article-content">
@@ -45,20 +45,22 @@
                                                  que necesita tu marca para ser percibida de manera diferencial respecto a tus competidores, por lo que deberías 
                                                  evitar el uso de plantillas ya creadas o limitarte a las redes sociales que, como hemos dicho, son un buen 
                                                  complemento para difundir tu marca, pero nunca podrán ofrecer la exclusividad que te da un buen diseño web.</p>
-                                            <div class="wp-block-image">
-                                                <figure class="alignleft is-resized">
-                                                    <img src="upload/eberhard-grossgasteiger-1093164-unsplash.jpg" alt="" class="wp-image-6563" width="310" height="464">
-                                                    <figcaption><em>Green Forest</em></figcaption>
-                                                </figure>
-                                            </div>
+                                            
                                             <br>
                                             <h3>🚀 Un buen diseño web es sinónimo de prestigio</h3>
+                                            <div class="wp-block-image">
+                                                <figure class="alignleft is-resized">
+                                                    <img src="{{asset('img/banners/prestigio.jpg')}}" alt="" class="wp-image-6563" width="310" height="464">
+                                                    
+                                                </figure>
+                                            </div>
+                                            <br><br>
                                             <p>En Internet no importa el tamaño de tu empresa. Todo el mundo puede competir al mismo nivel: con un buen diseño web, 
                                                 el usuario puede incluso llegar a percibir que tu negocio es más grande y exitoso de lo que realmente es. 
                                                 De acuerdo con el punto anterior, disponer de una página web exclusiva con una buena imagen de marca se puede traducir 
                                                 en un mayor posicionamiento, que a su vez se va a traducir en un mayor prestigio que le dará más credibilidad a tu negocio. 
                                                 No dejes pasar esta oportunidad.</p>
-                                                <br>
+                                                <br><br>
                                             <h3>🔝 Un buen diseño web genera más competitividad</h3>
                                             <p>Parece que no hemos dejado de hablar de la competitividad en ningún momento. Así es. Una cosa lleva a la otra, hasta llegar
                                                  a esta gratificante obviedad: si estás en Internet, eres competitivo. Aunque recuperando a Bill Gates, podríamos darle la
@@ -67,14 +69,13 @@
                                                   en el juego si quieres tener una mínima – o maxima, según cómo juegues tus cartas – probabilidad de éxito. Y no solo eso: 
                                                   el consumidor también espera encontrarte. Los buscadores han suplantado a las Páginas Amarillas y deberás tener preparada 
                                                   una buena carta de presentación cuando te encuentren.</p>
-                                            <div class="wp-block-image">
-                                                <figure class="alignleft is-resized">
-                                                    <img src="upload/eberhard-grossgasteiger-1093164-unsplash.jpg" alt="" class="wp-image-6563" width="310" height="464">
-                                                    <figcaption><em>Green Forest</em></figcaption>
-                                                </figure>
-                                            </div>
+                                            
                                             <br>
                                             <h3>📈  Un buen diseño web ayuda a incrementar y agilizar las ventas</h3>
+                                            <div class="wp-block-image">
+                                                <figure class="alignleft is-resized">
+                                                    <img src="{{asset('img/banners/ventas.jpg')}}" alt="" class="wp-image-6563" width="310" height="464">                                                </figure>
+                                            </div>
                                             <p>La irrupción del e-commerce como mecanismo de venta es el fruto de la digitalización de un consumidor que cada vez tiene más 
                                                 medios a su alcance para realizar compras cómodas y seguras con todas las garantías. Actualmente ya no solo se reservan y 
                                                 efectúan pedidos online de restaurantes, hoteles, vuelos o viajes. Las tiendas físicas han dejado de tener la exclusividad 
