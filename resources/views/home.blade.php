@@ -58,8 +58,8 @@
                                         <div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
                                                 <div class="gdlr-core-blog-thumbnail-wrap clearfix">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                        <a href=#><img src="{{asset('img/banners/marketing.png')}}" alt width=1000 height=426 title=pexels-photo-871053></a>
-                                                    </div><a href=# class=zilla-likes id=zilla-likes-6613 title="Like this"><span class=zilla-likes-count>261</span> <span class=zilla-likes-postfix></span></a></div>
+                                                        <a href="{{ route('article2') }}"><img src="{{asset('img/banners/marketing.png')}}" alt width=1000 height=426 title=pexels-photo-871053></a>
+                                                    </div><a href="{{ route('article2') }}" class=zilla-likes id=zilla-likes-6613 title="Like this"><span class=zilla-likes-count>261</span> <span class=zilla-likes-postfix></span></a></div>
                                                 <div class=gdlr-core-blog-full-content-wrap>
 
                                                     <div class="gdlr-core-blog-full-head clearfix">
@@ -97,8 +97,8 @@
                                             <div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-mglr gdlr-core-style-left">
                                                 <div class="gdlr-core-blog-thumbnail-wrap clearfix">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                        <a href=#><img src="{{asset('img/banners/logo.png')}}" alt width=1000 height=426 title=pexels-photo-871053></a>
-                                                    </div><a href=# class=zilla-likes id=zilla-likes-6613 title="Like this"><span class=zilla-likes-count>261</span> <span class=zilla-likes-postfix></span></a></div>
+                                                        <a href="{{ route('article3') }}"><img src="{{asset('img/banners/logo.png')}}" alt width=1000 height=426 title=pexels-photo-871053></a>
+                                                    </div><a href="{{ route('article3') }}" class=zilla-likes id=zilla-likes-6613 title="Like this"><span class=zilla-likes-count>261</span> <span class=zilla-likes-postfix></span></a></div>
                                                 <div class=gdlr-core-blog-full-content-wrap>
                                                                                                         
                                                     <div class="gdlr-core-blog-full-head clearfix">

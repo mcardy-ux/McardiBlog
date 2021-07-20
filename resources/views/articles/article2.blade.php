@@ -25,58 +25,41 @@
                                                 </div>
                                             </header>
                                         </div>
-                                        <div class="akea-single-article-thumbnail akea-media-image"><img src="upload/chinh-le-duc-264152-unsplash-1300x530.jpg" alt="" title="chinh-le-duc-264152-unsplash" width="1300" height="530"><a href="#" class="zilla-likes" id="zilla-likes-7008" title="Like this"><span class="zilla-likes-count">11</span> <span class="zilla-likes-postfix"></span></a></div>
+                                        <div class="akea-single-article-thumbnail akea-media-image">
+                                            <img src="{{asset('img/banners/marketing.jpg')}}" alt="" title="chinh-le-duc-264152-unsplash" width="1300" height="530"><a href="#" class="zilla-likes" id="zilla-likes-7008" title="Like this"><span class="zilla-likes-count">11</span> <span class="zilla-likes-postfix"></span></a></div>
                                         <div class="akea-single-article-content">
                                             
-                                            <h4>I neglect my talents</h4>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&nbsp;<strong>A small river named Duden flows by</strong>&nbsp;their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line.</p>
-                                            <p><strong>Read This :&nbsp;&nbsp;</strong>&nbsp;<a href="../../../11/11/gutenberg-post-ex-1/index.html#">Traveling in Turkey</a></p>
-                                           
-                                            <ol>
-                                                <li><strong>Impenetrable foliage</strong>&nbsp;of my trees, and but a few stray gleams.</li>
-                                                <li><strong>A wonderful serenity</strong>&nbsp;has taken possession of my entire soul.</li>
-                                                <li><strong>I should be incapable of drawing</strong>&nbsp;a single stroke at the present moment.</li>
-                                            </ol>
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.
-                                                <br>
+                                            <p>Lograr vender <strong> productos o servicios a posibles clientes </strong> en los medios digitales se ha convertido en una faceta primordial, A continuación encontraras los principales beneficios de tener en cuenta el marketing digital:</p>
+                                            <h3> 1. Menos gastos y más resultados</h3>
+                                            <p>
+                                                Todas las acciones digitales son más económicas que las existentes en una estrategia offline. La posibilidad de enfocar en acciones dirigidas al público ideal permite que se orienten los gastos en aquello que realmente trae resultados evitando, de ese modo, desperdicios.
+                                                Y más. En internet, puedes trabajar estrategias de costo muy bajos, como el marketing de contenidos, que atrae clientes potenciales (o leads) con la creación de contenidos orgánicos relevantes y bien posicionados en los motores de búsqueda.
+                                                Aunque, si tienes recursos disponibles, lo recomendable es que integres acciones pagas y orgánicas para potenciar tus resultados.
+                                                Solo es importante conciliarlas para que tu inversión en medios pagos sea complementaria al crecimiento orgánico y no la única alternativa.
                                             </p>
-                                            <p>I feel the presence of the Almighty:&nbsp;</p>
-                                            <div class="wp-block-image">
-                                                <figure class="aligncenter"><img src="upload/brooke-lark-289769-unsplash.jpg" alt="" class="wp-image-6464"></figure>
-                                            </div>
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&nbsp;<strong>A small river named Duden flows by</strong>&nbsp;their place and supplies it with the necessary regelialia. It is a paradisematic country in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line.</p>
-                                            <p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment and yet.</p>
-                                            <blockquote class="wp-block-quote">
-                                                <p><strong>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks.﻿</strong></p>
-                                            </blockquote>
-                                            <ul>
-                                                <li><strong>Impenetrable foliage</strong>&nbsp;of my trees, and but a few stray gleams.</li>
-                                                <li><strong>A wonderful serenity</strong>&nbsp;has taken possession of my entire soul.</li>
-                                                <li><strong>I should be incapable</strong>&nbsp;of drawing a single stroke at the present moment.&nbsp;</li>
-                                            </ul>
-                                            <figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-                                                <div class="wp-block-embed__wrapper">
-                                                    <div class="gdlr-core-fluid-video-wrapper" style="padding-top: 56.2609%;"><iframe src="https://www.youtube.com/embed/MGhjvist4gk?feature=oembed" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="gdlr-video-116349" frameborder="0"></iframe></div>
-                                                </div>
-                                            </figure>
-                                            <p><strong>Read This :&nbsp;&nbsp;</strong><a href="../../../11/11/gutenberg-post-ex-1/index.html#">Traveling in Turkey</a></p>
-                                            <ul>
-                                                <li><strong>Impenetrable foliage</strong>&nbsp;of my trees, and but a few stray gleams.</li>
-                                                <li><strong>A wonderful serenity</strong>&nbsp;has taken possession of my entire soul.</li>
-                                                <li><strong>I should be incapable</strong>&nbsp;of drawing a single stroke at the present moment.</li>
-                                            </ul><span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
-                                            <h4>&nbsp;The bedding was hardly able to cover it</h4>
-                                            <div class="wp-block-image">
-                                                <figure class="alignleft is-resized"><img src="upload/eberhard-grossgasteiger-1093164-unsplash.jpg" alt="" class="wp-image-6563" width="310" height="464">
-                                                    <figcaption><em>Green Forest</em></figcaption>
-                                                </figure>
-                                            </div>
-                                            <p>The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</p>
-                                            <p><strong>“What’s happened to me?” he thought. It wasn’t a dream. His room, a proper human”</strong>&nbsp;although a little too small, lay peacefully between its four</p>
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
-                                            <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.&nbsp;He lay on his armour-like back, and if he lifted&nbsp;his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.</p><span class="gdlr-core-space-shortcode" style="margin-top: 50px ;"></span>
-                                            <h4>A wonderful serenity has taken possession</h4>
-                                            <p><strong>His many legs, pitifully thin compared with the size of the rest of him,</strong>&nbsp;waved about helplessly as he looked. “What’s happened to me?” he thought. It wasn’t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table – Samsa was a travelling salesman – and above it there hung.</p>
+                                            <h3> 2. Ganancias progresivas</h3>
+                                            <p>
+                                                Cuando inviertes en estrategias digitales, uno de los mayores beneficios está en la construcción de tu marca en la web.
+                                                Mientras que en el marketing tradicional inviertes en campañas que promocionan tu marca por un determinado período de tiempo, en el marketing digital las estrategias se enfocan en resultados de largo plazo, buscando un resultado escalonado.
+                                                De ese modo, al crear tu presencia en línea y dedicar tus esfuerzos de marketing en construir una autoridad digital fuerte y consistente, logras que tu marca se vuelva cada vez más vista por el público.
+                                                No necesitas depender de la promoción temporaria, tu marca siempre estará visible y atrayendo nuevos clientes progresivamente.
+                                            </p>
+                                            <h3> 3. Capacidad de segmentación</h3>
+                                            <p>
+                                                La información dada por los usuarios en internet (como redes sociales y formularios) permite que las campañas digitales sean mucho más precisas.
+                                                En el marketing digital, puedes segmentar tus estrategias basándote en el género, edad, ubicación, intereses, hábitos y mucho más.
+                                                Este nivel de exactitud posibilita crear acciones dirigidas a las buyer personas — los clientes ideales de tu empresa. Con tantos datos en manos, sabrás qué mensaje enviar, por dónde y cómo hacerlo, por ejemplo.
+                                            </p>
+                                            <h3>4. Medición de resultados</h3>
+                                            <p>
+                                                Nada define más el éxito del marketing digital que su capacidad de medir, en tiempo real, cada resultado. Cada paso dado dentro de una estrategia online puede ser acompañado y analizado.
+                                                ¿Has enviado un email promocional? Mide la tasa de apertura y de conversión y descubre cuántas personas lo abrieron y cuántas adquirieron la promoción.
+                                                ¿Estás trabajando en un blog? Descubre con la ayuda de Google Analytics de dónde viene el origen del tráfico, cuánto tiempo las personas permanecen en la página y a qué otros contenidos han ingresado.
+                                                ¿Has realizado una publicación en las redes sociales? Analiza la interacción, a cuántas personas el post ha alcanzado y cuántas hicieron clic hacia la página de destino.
+                                                Y estos son solo algunos pocos ejemplos. Hay muchísimas métricas más que puedes observar para determinar si estás actuando correctamente en tu estrategia digital y si el camino que el lead está siguiendo está de acuerdo con la jornada que has pensado para él.
+                                                Por supuesto, no necesariamente debes acompañar todas las métricas que existen, de hecho, el análisis dependerá del objetivo de tu campaña y del resultado que buscas en cada canal.
+
+                                            </p>
                                         </div>
                                     </div>
                                 </article>
@@ -85,114 +68,7 @@
                     </div>
                 </div>
             </div>
-            <div class="gdlr-core-page-builder-body"></div>
-            <div class="akea-bottom-page-builder-container akea-container">
-                <div class="akea-bottom-page-builder-sidebar-wrap akea-sidebar-style-none">
-                    <div class="akea-bottom-page-builder-sidebar-class">
-                        <div class="akea-bottom-page-builder-content akea-item-pdlr">
-                            <div class="akea-single-nav-area clearfix"><span class="akea-single-nav akea-single-nav-left"><span class="akea-text akea-title-font">Previous Post</span><a href="../../05/how-to-dress-in-red-style/index.html" rel="prev"><span class="akea-single-nav-title akea-title-font">How To Dress In Red Style</span></a></span><span class="akea-single-nav akea-single-nav-right"><span class="akea-text akea-title-font">Next Post</span><a href="../../14/taking-photo-in-the-middle-of-nature/index.html" rel="next"><span class="akea-single-nav-title akea-title-font">Taking Photo In The Middle Of Nature</span></a></span>
-                            </div>
-                            
-                            <div class="akea-single-social-share akea-item-rvpdlr clearfix">
-                                <div class="gdlr-core-social-share-item gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-social-share-right-text gdlr-core-item-mglr gdlr-core-style-plain" style="padding-bottom: 0px ;">
-                                    <span class="gdlr-core-social-share-wrap">
-                                        <a class="gdlr-core-social-share-facebook" href="#" target="_blank">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-google-plus" href="#" target="_blank">
-                                            <i class="fa fa-google-plus"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-pinterest" href="#" target="_blank">
-                                            <i class="fa fa-pinterest-p"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-stumbleupon" href="#" target="_blank">
-                                            <i class="fa fa-stumbleupon"></i>
-                                        </a>
-                                        <a class="gdlr-core-social-share-twitter" href="#" target="_blank">
-                                            <i class="fa fa-twitter"></i>
-                                        </a>
-                                    </span>
-                                    <span class="gdlr-core-social-share-count">
-                                        <span class="gdlr-core-divider gdlr-core-skin-divider"></span>
-                                        <span class="gdlr-core-count">0</span>
-                                        <span class="gdlr-core-suffix">Shares</span>
-                                    </span>
-                                </div>
-                            </div>
-                            <div class="akea-single-magazine-author-tags clearfix"><a href="#" rel="tag">Food</a></div>
-                            <div class="akea-single-related-post-wrap akea-item-rvpdlr">
-                                <h3 class="akea-single-related-post-title akea-item-mglr">Related Posts</h3>
-                                <div class="gdlr-core-blog-item-holder clearfix">
-                                    <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-30 gdlr-core-column-first">
-                                        <div class="gdlr-core-blog-grid ">
-                                            <div class="gdlr-core-blog-thumbnail-wrap clearfix">
-                                                <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                    <a href="#"><img src="upload/brenda-godinez-228181-unsplash-900x537.jpg" alt="" title="brenda-godinez-228181-unsplash" width="900" height="537"></a>
-                                                    <div class="gdlr-core-blog-thumbnail-category"><a href="#" rel="tag">Food</a>,<a href="#" rel="tag">Photography</a></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-blog-grid-content-wrap">
-                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 17px ;"><a href="#">10 Best Way to Styling Your Food</a></h3>
-                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><img alt="" src="upload/avatar.jpeg" width="50" height="50"><a href="../../../../author/author1/index.html" title="Posts by Jane Smith" rel="author">Jane Smith</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="../../../10/11/index.html">October 11, 2018</a></span></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-30">
-                                        <div class="gdlr-core-blog-grid ">
-                                            <div class="gdlr-core-blog-thumbnail-wrap clearfix">
-                                                <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                    <a href="../../../09/05/the-most-beautiful-green-field-on-earth/index.html"><img src="upload/qingbao-meng-330658-unsplash-900x537.jpg" alt="" title="qingbao-meng-330658-unsplash" width="900" height="537"></a>
-                                                    <div class="gdlr-core-blog-thumbnail-category"><a href="#" rel="tag">Food</a>,<a href="#" rel="tag">Photography</a></div>
-                                                </div>
-                                            </div>
-                                            <div class="gdlr-core-blog-grid-content-wrap">
-                                                <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 17px ;"><a href="../../../09/05/the-most-beautiful-green-field-on-earth/index.html">The Most Beautiful Green Field on Earth</a></h3>
-                                                <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><img alt="" src="upload/avatar.jpeg" class="avatar avatar-50 photo" width="50" height="50"><a href="../../../../author/author2/index.html" title="Posts by Paul Newman" rel="author">Paul Newman</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="../../../09/05/index.html">September 5, 2018</a></span></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="comments" class="akea-comments-area">
-                                <div id="respond" class="comment-respond">
-                                    <h4 id="reply-title" class="comment-reply-title akea-content-font">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel Reply</a></small></h4>
-                                    <form action="#" method="post" id="commentform" class="comment-form" novalidate="">
-                                        <div class="comment-form-comment">
-                                            <textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Comment*"></textarea>
-                                        </div>
-                                        <div class="akea-comment-form-author">
-                                            <input id="author" name="author" type="text" value="" placeholder="Name*" size="30" aria-required="true" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==&quot;); background-repeat: no-repeat; background-attachment: scroll; background-size: 16px 18px; background-position: 98% 50%;">
-                                        </div>
-                                        <div class="akea-comment-form-email">
-                                            <input id="email" name="email" type="text" value="" placeholder="Email*" size="30" aria-required="true">
-                                        </div>
-                                        <div class="akea-comment-form-url">
-                                            <input id="url" name="url" type="text" value="" placeholder="Website" size="30">
-                                        </div>
-                                        <div class="clear"></div>
-                                        <p class="comment-form-cookies-consent">
-                                            <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes">
-                                            <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label>
-                                        </p>
-                                        <p class="form-submit">
-                                            <input name="submit" type="submit" id="submit" class="submit" value="Post Comment">
-                                        </p>
-                                        <p class="antispam-group antispam-group-q" style="clear: both;">
-                                            <label>Current ye@r <span class="required">*</span></label>
-                                            <input type="hidden" name="antspm-a" class="antispam-control antispam-control-a" value="2019">
-                                            <input type="text" name="antspm-q" class="antispam-control antispam-control-q" value="5.4" autocomplete="off">
-                                        </p>
-                                        <p class="antispam-group antispam-group-e" style="display: none;">
-                                            <label>Leave this field empty</label>
-                                            <input type="text" name="antspm-e-email-url-website" class="antispam-control antispam-control-e" value="" autocomplete="off">
-                                        </p>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
 
 @endsection
