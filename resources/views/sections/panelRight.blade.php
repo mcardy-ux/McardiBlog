@@ -84,9 +84,18 @@
                                 <!-- Banner lado derecho publicidad -->
                                 <div id=text-5 class="widget widget_text akea-widget">
                                     <div class=textwidget>
-                                        <p>
-                                            <a href=#><img src=upload/banner-600.jpg alt width=300 height=600 class="alignnone size-full wp-image-6652"></a>
-                                        </p>
+                                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3495289360708287"
+                                        crossorigin="anonymous"></script>
+                                    <!-- Ad_Mcardi_Blog -->
+                                    <ins class="adsbygoogle"
+                                        style="display:block"
+                                        data-ad-client="ca-pub-3495289360708287"
+                                        data-ad-slot="5012133155"
+                                        data-ad-format="auto"
+                                        data-full-width-responsive="true"></ins>
+                                    <script>
+                                        (adsbygoogle = window.adsbygoogle || []).push({});
+                                    </script>
                                     </div>
                                 </div>
                                 <div id=gdlr-core-category-background-widget-2 class="widget widget_gdlr-core-category-background-widget akea-widget">
