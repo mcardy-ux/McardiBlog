@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.mcardi.com" target="_blank"><img src="https://www.mcardi.com/assets/img/root/logo-black.png" width="400"></a></p>
+<p align="center"><a href="https://www.mcardi.com" target="_blank"><img src="http://blog.mcardi.com/img/min/logo.png" width="400"></a></p>
 
 
 ## Acerca de LaravelBlog - Mcardi Studios
