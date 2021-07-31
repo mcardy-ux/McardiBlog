@@ -33,6 +33,8 @@
                                     </li>
                                   
                                     <li class="menu-item"><a href="{{ route('contact') }}">💬 Feedback</a></li>
+                                    <li class="menu-item"><a href="{{ route('login') }}">Login</a></li>
+
                                 </ul>
                             </div>
                         </div>
@@ -103,6 +105,8 @@
                                                     </ul>
                                                 </li>
                                                 <li class="menu-item"><a href="{{ route('contact') }}">💬 Feedback</a></li>
+                                                <li class="menu-item"><a href="{{ route('login') }}">Login</a></li>
+
                                             </ul>
                                         </div>
                                     </div>

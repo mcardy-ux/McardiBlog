@@ -13,10 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
-
 //Inicio Contacto 
 Route::get('/contact', function () {
     return view('tabs.contact');
@@ -54,3 +50,17 @@ Route::get('/article2', function () {
 Route::get('/article3', function () {
     return view('articles.article3');
 })->name('article3');
+
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::get('/login', function () {
+    return view('auth.login');
+})->name('login');
+
+Route::get('/dashboard', function () {
+    return view('admin.dashboard');
+})->middleware(['auth'])->name('dashboard');
+
+require __DIR__.'/auth.php';
