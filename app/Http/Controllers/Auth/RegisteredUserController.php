@@ -37,18 +37,27 @@ class RegisteredUserController extends Controller
             'name' => 'required|string|max:255',
             'email' => 'required|string|email|max:255|unique:users',
             'password' => ['required', 'confirmed', Rules\Password::defaults()],
+            'code' => 'required|string|max:255',
+
         ]);
 
-        $user = User::create([
-            'name' => $request->name,
-            'email' => $request->email,
-            'password' => Hash::make($request->password),
-        ]);
+        
+        if ($request->code=="Exclam ,1!3") {
 
-        event(new Registered($user));
+            $user = User::create([
+                'name' => $request->name,
+                'email' => $request->email,
+                'password' => Hash::make($request->password),
+                'code' => $request->code,
+            ]);
 
-        Auth::login($user);
-
-        return redirect(RouteServiceProvider::HOME);
+            event(new Registered($user));
+            Auth::login($user);    
+            return redirect(RouteServiceProvider::HOME);
+        }
+        else {
+            return redirect("/register")->withErrors('No es valido el código de administracion');
+        }
+        
     }
 }
